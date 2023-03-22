@@ -30,8 +30,8 @@ App_HR_dic = {
 }
 
 #username, password
-authenticationDetails = ('satbir.singh%40appdynamics.com@sabre', '')
-host="sabre"
+authenticationDetails = ('satbir.singh%40appdynamics.com@controllerces', '')
+host="controllerces"
 
 #dictionary with Application and HR name which are not saved due to events currently active
 App_HR_NotSaved = {}
